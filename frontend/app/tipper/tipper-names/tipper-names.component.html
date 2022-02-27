@@ -1,0 +1,18 @@
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Name</th>
+            <th>Gruppe</th>
+        </tr>
+    </thead>
+
+    <tbody>
+        <tr *ngFor="let tipper of tippers | filterByGroup:selectedGroup" (click)="selectedTipperComponent(tipper)">
+            <td>{{tipper.id}}</td>
+            <td>{{tipper.name}}</td>
+            <td>{{tipper.groups}}</td>
+        </tr>
+
+    </tbody>
+</table>

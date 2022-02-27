@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{D8CF566B-0D3C-47D3-BC68-BB3392FBEC9E}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Tips/Controllers/TipsController.cs">
+    <Files>
+      <File FileName="Tips/Controllers/TipsController.cs" Line="40" Column="1" />
+      <File FileName="Tips/Dtos/TipperDto.cs" />
+      <File FileName="Tips/Dtos/MatchDto.cs" />
+      <File FileName="Tips/Dtos/TippDto.cs" />
+      <File FileName="Tips/Dtos/SingleTippDto.cs" />
+      <File FileName="Tips/Controllers/TipsAdminController.cs" Line="23" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Tips" expanded="True">
+            <Node name="Tips" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="TipsController.cs" selected="True" />
+              </Node>
+              <Node name="Dtos" expanded="True" />
+              <Node name="Services" expanded="True" />
+            </Node>
+            <Node name="TipsDb" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Tips PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

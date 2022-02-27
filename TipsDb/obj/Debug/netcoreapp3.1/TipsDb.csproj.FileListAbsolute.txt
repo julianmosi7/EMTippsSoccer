@@ -1,0 +1,14 @@
+/Users/julianmosi/Documents/School/5.Klasse/POS/backend_dtos_requests/TipsBackend/TipsDb/bin/Debug/netcoreapp3.1/tips.sqlite
+/Users/julianmosi/Documents/School/5.Klasse/POS/backend_dtos_requests/TipsBackend/TipsDb/bin/Debug/netcoreapp3.1/TipsDb.deps.json
+/Users/julianmosi/Documents/School/5.Klasse/POS/backend_dtos_requests/TipsBackend/TipsDb/bin/Debug/netcoreapp3.1/TipsDb.runtimeconfig.json
+/Users/julianmosi/Documents/School/5.Klasse/POS/backend_dtos_requests/TipsBackend/TipsDb/bin/Debug/netcoreapp3.1/TipsDb.runtimeconfig.dev.json
+/Users/julianmosi/Documents/School/5.Klasse/POS/backend_dtos_requests/TipsBackend/TipsDb/bin/Debug/netcoreapp3.1/TipsDb.dll
+/Users/julianmosi/Documents/School/5.Klasse/POS/backend_dtos_requests/TipsBackend/TipsDb/bin/Debug/netcoreapp3.1/TipsDb.pdb
+/Users/julianmosi/Documents/School/5.Klasse/POS/backend_dtos_requests/TipsBackend/TipsDb/obj/Debug/netcoreapp3.1/TipsDb.csprojAssemblyReference.cache
+/Users/julianmosi/Documents/School/5.Klasse/POS/backend_dtos_requests/TipsBackend/TipsDb/obj/Debug/netcoreapp3.1/EFCorePluralizer.cs
+/Users/julianmosi/Documents/School/5.Klasse/POS/backend_dtos_requests/TipsBackend/TipsDb/obj/Debug/netcoreapp3.1/TipsDb.AssemblyInfoInputs.cache
+/Users/julianmosi/Documents/School/5.Klasse/POS/backend_dtos_requests/TipsBackend/TipsDb/obj/Debug/netcoreapp3.1/TipsDb.AssemblyInfo.cs
+/Users/julianmosi/Documents/School/5.Klasse/POS/backend_dtos_requests/TipsBackend/TipsDb/obj/Debug/netcoreapp3.1/TipsDb.dll
+/Users/julianmosi/Documents/School/5.Klasse/POS/backend_dtos_requests/TipsBackend/TipsDb/obj/Debug/netcoreapp3.1/TipsDb.pdb
+/Users/julianmosi/Documents/School/5.Klasse/POS/backend_dtos_requests/TipsBackend/TipsDb/obj/Debug/netcoreapp3.1/TipsDb.csproj.CoreCompileInputs.cache
+/Users/julianmosi/Documents/School/5.Klasse/POS/backend_dtos_requests/TipsBackend/TipsDb/obj/Debug/netcoreapp3.1/TipsDb.genruntimeconfig.cache

@@ -1,0 +1,21 @@
+<div class="container">
+    <div class="row">
+        <div class="col" *ngFor="let btnGroup of btnGroupsDist">
+            <bs-button mode='primary' size='md' (clicked)="buttonClicked($event)" [value]='btnGroup'>{{btnGroup}}</bs-button>
+        </div>
+    </div>
+    
+   <div class="row">
+       <div class="col">
+        <tipper-names [tippers]="tippers"
+                      [selectedGroup]="selectedGroup"
+                      (tipperIdSelected)="selectedTipper($event)"></tipper-names>
+       </div>
+
+       <div class="col">
+           <tipped-matches [tipps]="singleTipps"
+                           [tipperName]="tipperName"></tipped-matches>
+       </div>
+   </div>
+   
+</div>

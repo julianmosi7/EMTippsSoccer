@@ -1,0 +1,23 @@
+<h5>Tipps von {{tipperName}}</h5>
+<p>Min. Goal Diff: <input type="number" min="0" max="50" [(ngModel)]="minDiff"></p>
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>#</th>
+            <th>Match</th>
+            <th>Result</th>
+            <th>Tipp</th>
+        </tr>
+    </thead>
+    
+    <tbody *ngFor="let match of matches | goalDiff:minDiff; let index = index;"
+          match-result
+          [index]="index"
+          [match]="match"
+          [tipp]="getTipById(match.id)"
+            >
+       
+    </tbody>
+    
+</table>
